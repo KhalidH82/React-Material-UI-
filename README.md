@@ -1,5 +1,11 @@
 # React-Material-UI-
-Pixabay mini project
+Pixabay mini project<br>
+
+Installation Instructions
+1. Clone repo
+2. CD into directory 
+3. Install dependancies
+4. CD in src folder and run yarn start
 
 <img src="pixabay.png"></a>
 
